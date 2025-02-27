@@ -3,14 +3,17 @@
 # Houdini AI Code Nodes
 LLM's enhanced nodes to assist your Houdini python or vex workflows.
 
-https://github.com/user-attachments/assets/cc25e9d7-d434-4483-ac7f-31ee750803d5
+https://github.com/user-attachments/assets/7c4710a7-6461-4e7a-9f33-d0e16430a0ef
+
+https://github.com/user-attachments/assets/02e3e16a-77a6-4cfa-9b28-d1ce42399515
 
 # Features
-## Create Code
-
-## Modify Code
-
-## Fix Errors
+- Create Code  
+  - Input the promt and press 'Send Prompt' to generate the required code
+- Modify Code
+  - Input your request into the 'Modify' tab and press 'Send Modification' to change an existing snippet
+- Fix Errors
+  - Roll the dice and request for the llm to fix the error on the node
 
 # Installation
 
@@ -69,5 +72,7 @@ Settings Example:
 ```URL: https://openrouter.ai/api/v1/```
 ```Model: google/gemini-2.0-flash-lite-preview-02-05:free```
 
-
-
+# Notes
+- Larger models create much better results, smaller models can often send code full of errors
+- Models work better with python than vex
+- It can be very useful to get you started with writing a snippet
