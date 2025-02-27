@@ -1,7 +1,16 @@
 ![github banner bevel](https://github.com/user-attachments/assets/8eef11d8-7923-4ca0-b709-e7e08b95d2c1)
 
-# What is it?
+# Houdini AI Code Nodes
+LLM's enhanced nodes to assist your Houdini python or vex workflows.
 
+https://github.com/user-attachments/assets/cc25e9d7-d434-4483-ac7f-31ee750803d5
+
+# Features
+## Create Code
+
+## Modify Code
+
+## Fix Errors
 
 # Installation
 
@@ -53,16 +62,12 @@ Settings Example:
 [Here is a good list of providers](https://github.com/XueyanZhang/awesome-ai-mode-api?tab=readme-ov-file)
 
 ### [OpenRouter (Free)](https://openrouter.ai/)
-OpenRouter is a great service that has free models you can use. The free gemini models are quite good
+OpenRouter is a great service that has free models you can use. The free gemini models are quite good.
+
 Settings Example:
-```API Key: generated api key```
+```API Key: generated-api-key```
 ```URL: https://openrouter.ai/api/v1/```
 ```Model: google/gemini-2.0-flash-lite-preview-02-05:free```
 
 
-# Features
-Create Code
 
-Modify Code
-
-Fix Errors
