@@ -61,6 +61,9 @@ Settings Example:
 ```URL: http://localhost:11434/v1/```
 ```Model: llama2```
 
+### Recommended model
+- gemma 3 27b
+
 ## Cloud
 [Here is a good list of providers](https://github.com/XueyanZhang/awesome-ai-mode-api?tab=readme-ov-file)
 
@@ -72,6 +75,9 @@ Settings Example:
 ```URL: https://openrouter.ai/api/v1/```
 ```Model: google/gemini-2.0-flash-lite-preview-02-05:free```
 
+### Recommended model
+- gemma 2.0 flash
+  
 # Notes
 - Larger models create much better results, smaller models can often send code full of errors
 - Models work better with python than vex
